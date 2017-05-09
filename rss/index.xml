@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://sk2sat.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 09 May 2017 12:25:10 GMT</lastBuildDate><atom:link href="https://sk2sat.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://sk2sat.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 09 May 2017 12:33:48 GMT</lastBuildDate><atom:link href="https://sk2sat.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[test post]]></title><description><![CDATA[<div class="paragraph">
+<p>aaaa</p>
+</div>
+<div class="paragraph">
+<p>hoge</p>
+</div>
+<div class="paragraph">
+<p><strong>fuga</strong></p>
+</div>]]></description><link>https://sk2sat.github.io/hubpress.io/2017/05/09/test-post.html</link><guid isPermaLink="true">https://sk2sat.github.io/hubpress.io/2017/05/09/test-post.html</guid><dc:creator><![CDATA[sksat]]></dc:creator><pubDate>Tue, 09 May 2017 00:00:00 GMT</pubDate></item></channel></rss>
