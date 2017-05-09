@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://sk2sat.github.io/hubpress.io",
+    "hubpress": "https://sk2sat.github.io/hubpress.io",
+    "theme": "//sk2sat.github.io/hubpress.io/themes/casper",
+    "images": "https://sk2sat.github.io/hubpress.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
